@@ -5,3 +5,7 @@ Maquinas virtuales de tareas.
 1.      172.31.22.4   EC2AMAZ-GPE2V9S
 2.
 3.
+
+
+
+Para cambiar la imagen - editar C:\inetpub\wwwroot
