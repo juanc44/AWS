@@ -4,7 +4,7 @@ Maquinas virtuales de tareas.
 ----    ----          ----
 1.      172.31.22.4   EC2AMAZ-GPE2V9S
 2.      172.31.4.170  EC2AMAZ-DLBR5DP
-3.
+3.      172.31.15.168 EC2AMAZ-29EONU9
 
 
 
