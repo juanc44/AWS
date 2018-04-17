@@ -3,7 +3,7 @@ Maquinas virtuales de tareas.
 #       IP            Nomre
 ----    ----          ----
 1.      172.31.22.4   EC2AMAZ-GPE2V9S
-2.
+2.      172.31.4.170  EC2AMAZ-DLBR5DP
 3.
 
 
