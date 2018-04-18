@@ -7,7 +7,7 @@ Maquinas virtuales de tareas.
 3.      172.31.15.168 EC2AMAZ-29EONU9
 -----
 1.      172.31.15.206 EC2AMAZ-R3D5BCE
-2.
+2.      172.31.4.237  EC2AMAZ-QNIR5LO
 3.
 4.
 5.
