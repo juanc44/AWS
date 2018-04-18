@@ -22,6 +22,7 @@ Maquinas virtuales de tareas.
 7.  Bucket (1 jpg, 1 txt, 1 pdf)
 8.  Bucket (1 jpg, 1 txt, 1 pdf)
 9.  Bucket (1 jpg, 1 txt, 1 pdf)
+---
 
 Para cambiar la imagen - editar C:\inetpub\wwwroot
 Para Linx instalar/actualizar $sudo yum update -y
