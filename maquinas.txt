@@ -10,7 +10,7 @@ Maquinas virtuales de tareas.
 2.      172.31.4.237  EC2AMAZ-QNIR5LO
 3.      172.31.2.221  EC2AMAZ-8R4GF8Q
 4.      172.31.14.209 ip-172-31-14-209.us-east-2.compute.internal
-5.
+5.      172.31.16.137 ip-172-31-16-137.us-east-2.compute.internal
 6.
 ----
 
