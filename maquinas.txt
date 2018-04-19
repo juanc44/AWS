@@ -18,7 +18,7 @@ Maquinas virtuales de tareas.
 3.  Win
 4.  Linx  172.31.9.22 ip-172-31-9-22.us-east-2.compute.internal
 5.  Linx  172.31.18.6 ip-172-31-18-6.us-east-2.compute.internal
-6.  Linx
+6.  Linx  172.31.0.30 ip-172-31-0-30.us-east-2.compute.internal
 7.  Bucket (1 jpg, 1 txt, 1 pdf)
 8.  Bucket (1 jpg, 1 txt, 1 pdf)
 9.  Bucket (1 jpg, 1 txt, 1 pdf)
