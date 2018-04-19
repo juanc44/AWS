@@ -16,7 +16,7 @@ Maquinas virtuales de tareas.
 1.  Win
 2.  Win
 3.  Win
-4.  Linx
+4.  Linx  172.31.9.22 ip-172-31-9-22.us-east-2.compute.internal
 5.  Linx
 6.  Linx
 7.  Bucket (1 jpg, 1 txt, 1 pdf)
