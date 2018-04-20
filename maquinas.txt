@@ -23,7 +23,7 @@ Maquinas virtuales de tareas.
 8.  Bucket (1 jpg, 1 txt, 1 pdf)
 9.  Bucket (1 jpg, 1 txt, 1 pdf)
 ---
-1. Win
+1. Win      172.31.12.196    EC2AMAZ-T04M71S
 2. Win
 3. Win
 4. Linx     172.31.43.194 ip-172-31-43-194.us-east-2.compute.internal
