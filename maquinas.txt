@@ -23,6 +23,22 @@ Maquinas virtuales de tareas.
 8.  Bucket (1 jpg, 1 txt, 1 pdf)
 9.  Bucket (1 jpg, 1 txt, 1 pdf)
 ---
+1. Win
+2. Win
+3. Win
+4. Linx
+5. Linx
+6. Linx
+7. Bckt
+8. Bckt
+9. Bckt
+10. Mktplc
+11. Mktplc
+12. Mktplc
+13. Mktplc
+14. Mktplc
+15. Mktplc
+
 
 Para cambiar la imagen - editar C:\inetpub\wwwroot
 Para Linx instalar/actualizar $sudo yum update -y
