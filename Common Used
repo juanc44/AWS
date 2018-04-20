@@ -3,7 +3,7 @@ IAm
 VPC
 Lambda
 ApiGateway
-RDS
+RDS - aurora
 Route %3
 SES
 Cloudfront
