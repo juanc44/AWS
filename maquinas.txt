@@ -38,6 +38,12 @@ Maquinas virtuales de tareas.
 13. Mktplc
 14. Mktplc
 15. Mktplc
+----
+3 Win
+3 Linx
+3 Bucket
+6 Marketplace
+3 description en propias palabras
 
 
 Para cambiar la imagen - editar C:\inetpub\wwwroot
