@@ -28,7 +28,7 @@ Maquinas virtuales de tareas.
 3. Win
 4. Linx     172.31.43.194 ip-172-31-43-194.us-east-2.compute.internal
 5. Linx     172.31.4.59   ip-172-31-4-59.us-east-2.compute.internal
-6. Linx
+6. Linx     172.31.13.255 ip-172-31-13-255.us-east-2.compute.internal
 7. Bckt - 1 txt, 1 pdf, 1 jpg
 8. Bckt - 1 txt, 1 pdf, 1 jpg
 9. Bckt - 1 txt, 1 pdf, 1 jpg
