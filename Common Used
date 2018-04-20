@@ -10,7 +10,7 @@ Cloudfront
 Cloudsearch
 Elasticache -DynamoDB -Redis -Memcached
 Transcode
-SQS
+SQS -amazon MQ
 Waf
 Devirefarm
 mobileanalitics
