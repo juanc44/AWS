@@ -10,11 +10,12 @@ Cloudfront
 Cloudsearch
 Elasticache -DynamoDB -Redis -Memcached
 Transcode
-SQS -amazon MQ
+SQS -amazon MQ -Rabit MQ
 Waf
-Devirefarm
+Cognito
+Devicefarm
 mobileanalitics
-Sns
+Sns - Simple Notification Service
 Codecommit
 Codeplay
 Codepipeline
