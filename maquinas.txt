@@ -34,7 +34,7 @@ Maquinas virtuales de tareas.
 9. Bckt - 1 txt, 1 pdf, 1 jpg
 10. Mktplc  172.31.36.27    ip-172-31-36-27
 11. Mktplc  172.31.16.100   ip-172-31-16-100
-12. Mktplc
+12. Mktplc  172.31.31.26    
 13. Mktplc
 14. Mktplc
 15. Mktplc
