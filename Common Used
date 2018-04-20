@@ -5,7 +5,7 @@ Lambda
 ApiGateway
 RDS - aurora
 Route %3
-SES
+SES - athena
 Cloudfront
 Cloudsearch
 Elasticache
