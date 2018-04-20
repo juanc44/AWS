@@ -8,7 +8,7 @@ Route %3
 SES - athena
 Cloudfront
 Cloudsearch
-Elasticache
+Elasticache -DynamoDB
 Transcode
 SQS
 Waf
