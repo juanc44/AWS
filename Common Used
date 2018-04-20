@@ -1,2 +1,21 @@
 EC2
 IAm
+VPC
+Lambda
+ApiGateway
+RDS
+Route %3
+SES
+Cloudfront
+Cloudsearch
+Elasticache
+Transcode
+SQS
+Waf
+Devirefarm
+mobileanalitics
+Sns
+Codecommit
+Codeplay
+Codepipeline
+Ecs
