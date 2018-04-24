@@ -45,7 +45,7 @@ Maquinas virtuales de tareas.
 4.Linx    172.31.42.28  ip-172-31-42-28.us-east-2.compute.internal
 5.Linx    172.31.43.238 ip-172-31-43-238.us-east-2.compute.internal
 6.Linx    172.31.25.39  ip-172-31-25-39.us-east-2.compute.internal
-7.Bcket
+7.Bucket
 8.Bucket
 9.Bucket
 10.Marketplace
