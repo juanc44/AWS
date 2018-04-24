@@ -42,7 +42,7 @@ Maquinas virtuales de tareas.
 1.Win
 2.Win
 3.Win
-4.Linx
+4.Linx    172.31.42.28  ip-172-31-42-28.us-east-2.compute.internal
 5.Linx
 6.Linx
 7.Bcket
