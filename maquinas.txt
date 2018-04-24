@@ -48,7 +48,7 @@ Maquinas virtuales de tareas.
 7.Bucket  - done
 8.Bucket  - done
 9.Bucket  - done
-10.Mktplc
+10.Mktplc   172.31.41.140   ip-172-31-41-140
 11.Mktplc
 12.Mktplc
 13.Mktplc
