@@ -39,10 +39,21 @@ Maquinas virtuales de tareas.
 14. Mktplc
 15. Mktplc
 ----
-3 Win
-3 Linx
-3 Bucket
-6 Marketplace
+1.Win
+2.Win
+3.Win
+4.Linx
+5.Linx
+6.Linx
+7.Bcket
+8.Bucket
+9.Bucket
+10.Marketplace
+11.Mktplc
+12.Mktplc
+13.Mktplc
+14.Kktplc
+15.Mktplc
 3 description en propias palabras
 
 
