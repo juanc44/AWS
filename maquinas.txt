@@ -59,3 +59,15 @@ Maquinas virtuales de tareas.
 
 Para cambiar la imagen - editar C:\inetpub\wwwroot
 Para Linx instalar/actualizar $sudo yum update -y
+
+
+Azure:
+1 Win IIS SCreen
+2 Linx Yum update scren
+3.storage account
+4. marketplace
+
+AWS:
+1. Windows IIS SS
+2. Linx Yum update SS
+3. Bucket
