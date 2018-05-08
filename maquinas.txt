@@ -69,5 +69,5 @@ Azure:
 
 AWS:
 1. Windows IIS SS
-2. Linx Yum update SS
+2. Linx Yum update SS   18.219.17.33    ip-172-31-7-120.us-east-2.compute.internal
 3. Bucket
